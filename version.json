@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
+  "versionCode": 13,
   "version": "1.0.0",
-  "notes": "Realistic AI voices! Your committee now speaks in lifelike neural voices using your own OpenAI/Gemini key. Toggle it in Settings > AI > Voice.",
+  "notes": "Performance: the Live meeting now responds faster. Voices play instantly using your device's built-in voice.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
