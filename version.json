@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
+  "versionCode": 18,
   "version": "1.0.0",
-  "notes": "Hands-free voting: just say \"put it to a vote on …\" in the Live boardroom or chat. Cleaner full-screen vote animation with the topic shown big, plus a mic on the vote screen.",
+  "notes": "New partner: Short Squeeze — a speculative seat that hunts squeeze setups, wired into chat, the live meeting, votes and the briefing. Turn any partner on/off in Settings. Plus vote UI fixes.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
