@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
+  "versionCode": 24,
   "version": "1.0.0",
-  "notes": "Each committee partner now has its own page: name it, pick its avatar (emoji + color), tune its voice, and turn it on/off. Partners also keep their OWN DNA — what each has learned about you through its lens — alongside the shared Community DNA. Export or import an individual partner.",
+  "notes": "Fixes a crash when opening a partner's detail page. (v23 added per-partner pages with avatar, voice, on/off and each partner's own DNA.)",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
