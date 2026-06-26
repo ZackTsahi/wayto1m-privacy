@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
+  "versionCode": 22,
   "version": "1.0.0",
-  "notes": "Smoother voice (no dropped sentence starts). Launch a Committee Vote from the live meeting controls. Notifications open the right screen with no pop-ups on resume. New 'Coming up' list in Events. Cleaner dashboard header (logo + title, bell on Overview) and a redesigned hero. Settings reorganized into clear, collapsible sections. Fixes and polish.",
+  "notes": "Clearer in-app updates: the Update button now opens the Play Store directly, the prompt shows your installed build vs the latest so you can tell versions apart, and you won't get repeated update pop-ups after you've already been notified.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
