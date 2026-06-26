@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
+  "versionCode": 26,
   "version": "1.0.0",
-  "notes": "Choose each partner's portrait from a gallery of 40 faces (in Settings - Your Partners - tap a partner). Your pick now shows everywhere that partner appears - the live meeting, analyze and committee votes. Plus the emoji + accent-color avatar options.",
+  "notes": "Bigger portrait gallery for partners - 50 faces (25 women, 25 men) across ages and styles. Fixed the 'Portfolio Intelligence' header text getting cut off on some tabs.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
