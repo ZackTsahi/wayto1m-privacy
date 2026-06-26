@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
+  "versionCode": 25,
   "version": "1.0.0",
-  "notes": "Fixes a crash when opening a partner's detail page. (v23 added per-partner pages with avatar, voice, on/off and each partner's own DNA.)",
+  "notes": "Choose each partner's portrait from a gallery of 40 faces (in Settings - Your Partners - tap a partner). Your pick now shows everywhere that partner appears - the live meeting, analyze and committee votes. Plus the emoji + accent-color avatar options.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
