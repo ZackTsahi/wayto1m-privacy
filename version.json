@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
+  "versionCode": 21,
   "version": "1.0.0",
-  "notes": "NEW: Investor DNA — your committee learns about you over time and uses it everywhere (see it in Settings). More reliable voice (no dropped sentence starts; tickers auto-corrected to your portfolio). Launch a vote from the meeting controls. Fixes: notifications, Events icon, vote tally, bell. Slicker goal ring.",
+  "notes": "Smoother voice (no dropped sentence starts). Launch a Committee Vote from the live meeting controls. Notifications open the right screen with no pop-ups on resume. New 'Coming up' list in Events. Cleaner dashboard header (logo + title, bell on Overview) and a redesigned hero. Settings reorganized into clear, collapsible sections. Fixes and polish.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
