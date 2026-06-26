@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
+  "versionCode": 20,
   "version": "1.0.0",
-  "notes": "Voice upgrade: review what was heard (Send/Edit/Redo) before it reaches the committee — wrong tickers can't slip through. Votes adapt options to your question. New notifications bell + screen. Tap watched stocks for full detail. Calendar is now Events (Calendar + Alerts with search/filter).",
+  "notes": "NEW: Investor DNA — your committee learns about you over time and uses it everywhere (see it in Settings). More reliable voice (no dropped sentence starts; tickers auto-corrected to your portfolio). Launch a vote from the meeting controls. Fixes: notifications, Events icon, vote tally, bell. Slicker goal ring.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
