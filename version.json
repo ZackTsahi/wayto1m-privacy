@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
+  "versionCode": 28,
   "version": "1.0.0",
-  "notes": "Committee Genome: every partner now earns a real track record from graded vote outcomes, and proven partners are weighted more in future votes. See each partner's earned hit rate, export your whole committee, or adopt a proven one from someone else (its record is shown before you adopt). Records build over time as your votes mature.",
+  "notes": "Every confident call now counts: when a partner makes a clear buy/sell/hold call in chat, the live meeting, or a vote, it's logged and graded over time - so track records build faster. New 'Recent calls' list in Committee Genome shows each call's status. Tidier partner page with collapsible sections.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
