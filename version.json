@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
+  "versionCode": 27,
   "version": "1.0.0",
-  "notes": "Bigger portrait gallery for partners - 50 faces (25 women, 25 men) across ages and styles. Fixed the 'Portfolio Intelligence' header text getting cut off on some tabs.",
+  "notes": "Committee Genome: every partner now earns a real track record from graded vote outcomes, and proven partners are weighted more in future votes. See each partner's earned hit rate, export your whole committee, or adopt a proven one from someone else (its record is shown before you adopt). Records build over time as your votes mature.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
