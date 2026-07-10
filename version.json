@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
+  "versionCode": 54,
   "version": "1.0.0",
-  "notes": "Fixes the app failing to load at all in v52 (a WebRTC setup-order bug from the shared-meeting feature). Shared live meetings work as intended: invite a friend into your boardroom with a code — they see your committee, captions, decks and charts live, with real voice between you.",
+  "notes": "Fixes guests being unable to connect when joining a shared boardroom meeting via invite code (missing microphone permission request on first join).",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
