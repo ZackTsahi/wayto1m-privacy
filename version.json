@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
+  "versionCode": 56,
   "version": "1.0.0",
-  "notes": "Fixes audio staying connected after leaving a shared meeting, and a crash when scrolling the stock detail page (the price chart was fighting the page's scroll gesture).",
+  "notes": "Fixes a real crash when leaving the stock detail page (back button or swipe) — confirmed via crash reports and traced to the chart's GPU view being torn down mid-animation.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
