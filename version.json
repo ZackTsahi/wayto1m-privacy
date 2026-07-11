@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
+  "versionCode": 58,
   "version": "1.0.0",
-  "notes": "Corrects a timing bug in v56's stock-detail close-crash fix (grace window now starts on the first render, not one late). Also adds Settings > Error Log, so if anything ever crashes again you can copy the real error text straight from the app.",
+  "notes": "Fixes the real stock-detail crash: an unguarded read on an empty price-history array could throw and crash the app. Matches the actual crash signature this time.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
