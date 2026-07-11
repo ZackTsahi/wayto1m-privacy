@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
+  "versionCode": 59,
   "version": "1.0.0",
-  "notes": "Fixes the real stock-detail crash: an unguarded read on an empty price-history array could throw and crash the app. Matches the actual crash signature this time.",
+  "notes": "Fixes the real stock-detail crash, confirmed via live device logs: a leftover reference to a state variable that no longer existed threw on every close.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
