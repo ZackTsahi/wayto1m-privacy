@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
+  "versionCode": 60,
   "version": "1.0.0",
-  "notes": "Fixes the real stock-detail crash, confirmed via live device logs: a leftover reference to a state variable that no longer existed threw on every close.",
+  "notes": "Shared meetings now let both people's committees actually speak — either side can jump in at any time. Real names replace 'Host'/'Guest', and each person gets their own labeled tile showing who's currently talking on their side. A friend's committee now shows up alongside yours once they join.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
