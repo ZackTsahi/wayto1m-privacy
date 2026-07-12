@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
+  "versionCode": 61,
   "version": "1.0.0",
-  "notes": "Shared meetings now let both people's committees actually speak — either side can jump in at any time. Real names replace 'Host'/'Guest', and each person gets their own labeled tile showing who's currently talking on their side. A friend's committee now shows up alongside yours once they join.",
+  "notes": "Fixes near-silent voice in live shared meetings (missing audio session setup). The room filmstrip is now one unified row for both people's committees instead of two separate team rows.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
