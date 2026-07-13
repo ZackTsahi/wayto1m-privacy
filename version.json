@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
+  "versionCode": 62,
   "version": "1.0.0",
-  "notes": "Fixes near-silent voice in live shared meetings (missing audio session setup). The room filmstrip is now one unified row for both people's committees instead of two separate team rows.",
+  "notes": "Emergency fix: v61 accidentally broke 'Start a meeting' with a crash. Reverted the change that caused it.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
