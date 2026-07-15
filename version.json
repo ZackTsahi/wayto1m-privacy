@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
+  "versionCode": 67,
   "version": "1.0.0",
-  "notes": "Fixed a data bug where autopilot could buy into the wrong portfolio if you switched portfolios while a trade was still processing. Multi-portfolio autopilot is now correctly isolated.",
+  "notes": "Crypto tokens now show their contract address (tap to copy). Autopilot trades show the exact fill price and time, plus a one-tap \"Verify against real chart\" check that cross-references the fill against independent historical price data.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
