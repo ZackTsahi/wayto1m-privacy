@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
+  "versionCode": 66,
   "version": "1.0.0",
-  "notes": "New: an 18th committee partner, Archive, cross-checks new ideas against past mistakes. Richer buy/sell history with notes and running position. Autopilot activity now shows full trade reasoning. Fixed a bug where autopilot gains briefly showed 0% right after a new position. Easier portfolio delete, plus \"show more\" on long lists.",
+  "notes": "Fixed a data bug where autopilot could buy into the wrong portfolio if you switched portfolios while a trade was still processing. Multi-portfolio autopilot is now correctly isolated.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
