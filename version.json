@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
+  "versionCode": 69,
   "version": "1.0.0",
-  "notes": "Fixed the committee sometimes fabricating token contract addresses when asked directly — it now only ever states a real, tool-verified address or says it doesn't have one. Also fixed crypto tickers missing the -USD tag in some autopilot trades, which was silently breaking sizing and the contract-address lookup. Contract address is now clickable, opens DexTools, and shows in the trade history too.",
+  "notes": "Added MiniMax as a new AI provider option in Settings (MiniMax-M2, their flagship model) for chat, committee and autopilot.",
   "url": "https://play.google.com/store/apps/details?id=com.tsahi.wayto1m"
 }
